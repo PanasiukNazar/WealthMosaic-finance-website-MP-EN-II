@@ -1,4 +1,4 @@
-const submit = document.querySelector('#contact-submit');
+const submit = document.querySelector('#submit');
 
 submit.addEventListener('click', () => {
     event.preventDefault();
