@@ -1274,6 +1274,7 @@ SECTION TESTIMONIAL
     border-radius: 100%;
     border: 1px dotted #ddd;
     padding: 5px;
+    object-fit: cover;
 }
 
 .test-author-info {
